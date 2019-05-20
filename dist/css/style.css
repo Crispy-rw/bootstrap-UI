@@ -1,0 +1,40 @@
+body{
+	margin: 0%;
+	padding: 0%;
+	font-family: 'Lato'; 
+	background-color: black;
+	font-size: 50px;
+}
+
+
+.navbar-brand{
+	font-family: 'Pacifico';
+	font-size: 35px;
+	color: lightcoral !important
+}
+
+.nav-link{
+	font-size: 16px;
+	margin: 15px;
+	color: black !important;
+}
+
+
+
+.site-content {
+	background-image: url('./img/img.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.site-content, .site-desc{
+	color: white;
+	font-family: 'Righteous';
+}
+
+
+.site-title{
+	margin-top: 300%;
+	margin-bottom: 6%;
+	font-size: 50px;
+}
